@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Akash
-- 👀 I’m interested in development
+- 🧑‍💻 I’m a Senior Systems Engineer
 - 🌱 I’m currently learning ML and AI
+- 🤯 Working on Embedded and Android app development
 - 📫 Reach me @ https://www.linkedin.com/in/akash-velayutham/
 
 <!---
